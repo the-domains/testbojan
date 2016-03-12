@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[testbojan]]></title>
         <description><![CDATA[testbojan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testbojan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 14:47:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 16:29:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testbojan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is this]]></title>
+            <description><![CDATA[<article><h1>What is this</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1bd12a3-6ed2-4a46-b681-972b8e8a3974.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testbojan/what-is-this/index.html</link>
+            <guid isPermaLink="false">0781995e-a746-45ca-b7f8-aee9662166bc</guid>
+            <pubDate>Sat, 12 Mar 2016 16:28:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/081905dc-6f9f-4c55-989c-3ea9e1f80a6a.jpg">]]></description>
-            <link>undefinedihouhoioihoiuoi/index.html</link>
+            <link>https://thegrid.ai/testbojan/ihouhoioihoiuoi/index.html</link>
             <guid isPermaLink="false">9a154492-41b5-4783-8aa0-22e9b567b09a</guid>
             <pubDate>Sat, 12 Mar 2016 14:47:01 GMT</pubDate>
         </item>
