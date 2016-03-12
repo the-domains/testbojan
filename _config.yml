@@ -1,7 +1,7 @@
 name: testbojan
 favicon: null
 layout_spectrum: 0.9868168123066425
-typography_spectrum: 0.4477706206962466
+typography_spectrum: 0.53563
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5495419586077332
+  brandStrength: 0.1875
   lightness: 0.14961841935291886
-  saturation: 0.6632431447505951
+  saturation: 0.5
   rhythmicContrast: 0.23176587908528745
 purpose: []
